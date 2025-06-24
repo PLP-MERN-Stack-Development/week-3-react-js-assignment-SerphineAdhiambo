@@ -1,71 +1,38 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19781029&assignment_repo_type=AssignmentRepo)
-# React.js and Tailwind CSS Assignment
+🎨 Week 3: React.js, JSX, and Tailwind CSS – Front-End Development
+🚀 Objective
+Build a responsive React application using JSX and Tailwind CSS, showcasing reusable components, state management, hooks, and API integration.
 
-This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
+📂 Features
+⚛️ Built with React + Vite
 
-## Assignment Overview
+🌈 Styled using Tailwind CSS (fully responsive & theme switcher)
 
-You will:
-1. Set up a React project with Vite and Tailwind CSS
-2. Create reusable UI components
-3. Implement state management using React hooks
-4. Integrate with external APIs
-5. Style your application using Tailwind CSS
+🧩 Reusable components: Button, Card, Navbar, Footer, and layout
 
-## Getting Started
+🧠 Hooks & State: useState, useEffect, useContext, custom useLocalStorage
 
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Install dependencies:
-   ```
-   npm install
-   ```
-4. Start the development server:
-   ```
-   npm run dev
-   ```
+📋 Task Manager: Add, complete, delete, and filter tasks
 
-## Files Included
+🌐 API Integration: Fetch from JSONPlaceholder, with loading/error states and search
 
-- `Week3-Assignment.md`: Detailed assignment instructions
-- Starter files for your React application:
-  - Basic project structure
-  - Pre-configured Tailwind CSS
-  - Sample component templates
+💡 Clean architecture with routing and component organization
 
-## Requirements
+🛠️ Getting Started
+Clone the repository
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
 
-- Node.js (v18 or higher)
-- npm or yarn
-- Modern web browser
-- Code editor (VS Code recommended)
+Install dependencies
+npm install
 
-## Project Structure
+Run the development server
+npm run dev
 
-```
-src/
-├── components/       # Reusable UI components
-├── pages/           # Page components
-├── hooks/           # Custom React hooks
-├── context/         # React context providers
-├── api/             # API integration functions
-├── utils/           # Utility functions
-└── App.jsx          # Main application component
-```
+🌍 Live Demo
+🔗 Deployed App
 
-## Submission
+📸 Screenshots
+Light Mode	Dark Mode
 
-Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
-
-1. Complete all required components and features
-2. Implement proper state management with hooks
-3. Integrate with at least one external API
-4. Style your application with Tailwind CSS
-5. Deploy your application and add the URL to your README.md
-
-## Resources
-
-- [React Documentation](https://react.dev/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
+👩‍💻 Author
+Serphine Joy – Software Engineering Student
