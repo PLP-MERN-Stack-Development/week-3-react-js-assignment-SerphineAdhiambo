@@ -19,8 +19,6 @@ Build a responsive React application using JSX and Tailwind CSS, showcasing reus
 
 🛠️ Getting Started
 Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
 
 Install dependencies
 npm install
