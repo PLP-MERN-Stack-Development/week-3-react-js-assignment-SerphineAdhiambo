@@ -31,8 +31,8 @@ npm run dev
 🌍 Live Demo
 🔗 Deployed App
 
-📸 Screenshots
-Light Mode	Dark Mode
+![image](https://github.com/user-attachments/assets/675b669f-f898-49c2-8f53-576c902e4843)
+
 
 👩‍💻 Author
 Serphine Joy – Software Engineering Student
